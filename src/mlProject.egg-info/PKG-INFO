@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/akireo/End-to-end-ML-Project-with-MLflow
+Author: akireo
+Author-email: ashisdeb83@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/akireo/End-to-end-ML-Project-with-MLflow/issues
+Description: # End-to-end-machine-learning-project-with-mlflow
+Platform: UNKNOWN
